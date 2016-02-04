@@ -17,11 +17,11 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #9BD751;
+  background-color: #85C365;
 }
 .bg-dark {
   color: white;
-  background-color: #222222;
+  background-color: #4F3D2C;
 }
 @media (max-width: 767px) {
   section {
@@ -35,7 +35,7 @@ input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #5cb85c;
+  border-color: #4F3D2C;
   box-shadow: none;
 }
 .btn,
@@ -47,8 +47,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #5cb85c;
-  border-color: #5cb85c;
+  background-color: #4F3D2C;
+  border-color: #4F3D2C;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -86,11 +86,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #5cb85c;
-  border-color: #5cb85c;
+  background-color: #4F3D2C;
+  border-color: #4F3D2C;
 }
 .btn-primary .badge {
-  color: #5cb85c;
+  color: #4F3D2C;
   background-color: #ffffff;
 }
 body {
@@ -99,7 +99,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #5cb85c;
+  color: #4F3D2C;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -151,7 +151,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #5cb85c;
+  border-color: #4F3D2C;
 }
 @media (min-width: 768px) {
   hr {
@@ -166,7 +166,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #5cb85c;
+  color: #4F3D2C;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -182,7 +182,7 @@ hr.colored {
   border-radius: 0;
 }
 .navbar-default {
-  background-color: #5cb85c;
+  background-color: #4F3D2C;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -196,7 +196,7 @@ hr.colored {
   border-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-inverse {
-  background-color: #222222;
+  background-color: ##4F3D2C;
 }
 .navbar-default,
 .navbar-inverse {
@@ -470,7 +470,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #5cb85c !important;
+  background-color: #4F3D2C !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -551,7 +551,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #5cb85c !important;
+  background-color: #4F3D2C !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -666,7 +666,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #5cb85c !important;
+  background-color: #4F3D2C !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -807,9 +807,9 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 .portfolio-filter #filters li .filter.active {
-  background-color: #5cb85c;
+  background-color: #4F3D2C;
   color: white;
-  border-color: #5cb85c;
+  border-color: #4F3D2C;
 }
 #portfoliolist .portfolio {
   width: 31%;
@@ -841,7 +841,7 @@ aside.cta-quote span.quote {
   bottom: -75px;
 }
 #portfoliolist .portfolio .portfolio-wrapper .caption .caption-bg {
-  background: #5cb85c;
+  background: #4F3D2C;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -979,7 +979,7 @@ aside.cta-quote span.quote {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #5cb85c;
+  color: #4F3D2C;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
@@ -1026,7 +1026,7 @@ footer.footer .copyright p.small {
 }
 .btn-outline-light:hover,
 .btn-outline-light:focus {
-  color: #5cb85c;
+  color: #4F3D2C;
   background: white;
   outline: none;
 }
@@ -1041,8 +1041,8 @@ footer.footer .copyright p.small {
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
   color: white;
-  background: #5cb85c;
-  border-color: #5cb85c;
+  background: #4F3D2C;
+  border-color: #4F3D2C;
   outline: none;
 }
 .btn {
@@ -1069,7 +1069,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #5cb85c;
+  background-color: #4F3D2C;
   color: white;
 }
 .btn-full-width:focus {
