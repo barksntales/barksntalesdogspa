@@ -869,7 +869,7 @@ aside.cta-quote span.quote {
   }
 }
 .pricing {
-  color: white;
+  color: #ffffff;
   background-color: #222222;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -879,8 +879,8 @@ aside.cta-quote span.quote {
 }
 .pricing .pricing-item {
   text-align: center;
-  background: white;
-  color: #222222;
+  background: #4F3D2C;
+  color: #82C062;
   padding: 30px;
   -webkit-box-shadow: 0px 0px 30px 5px rgba(34, 34, 34, 0.75);
   -moz-box-shadow: 0px 0px 30px 5px rgba(34, 34, 34, 0.75);
