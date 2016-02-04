@@ -94,7 +94,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #ffffff;
 }
 body {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "over the rainbow";
   font-size: 16px;
   font-weight: 300;
 }
@@ -723,8 +723,8 @@ aside.cta-quote span.quote {
   display: none;
 }
 .portfolio-modal .modal-content {
-  color: #000;
-  background: transparent;
+  color: #808080;
+  background: white;
   border-radius: 0;
   background-clip: border-box;
   -webkit-box-shadow: none;
@@ -1076,7 +1076,7 @@ footer.footer .copyright p.small {
   color: white;
 }
 body.modern {
-  font-family: "Cardo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: ""Cardo", "Helvetica Neue", Helvetica, Arial, sans-serif";
   font-weight: 400;
 }
 body.modern h1,
@@ -1085,17 +1085,17 @@ body.modern h3,
 body.modern h4,
 body.modern h5,
 body.modern h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Zapf Chancery", "cursive";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern p.lead {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Zapf Chancery", "cursive";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern header .brand-name {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Zapf Chancery", "cursive";
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -1104,12 +1104,12 @@ body.modern .about-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
 body.modern .portfolio-carousel .item .project-details .project-name {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Zapf Chancery", "cursive";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Zapf Chancery", "cursive";
   font-weight: 700;
   text-transform: uppercase;
 }
