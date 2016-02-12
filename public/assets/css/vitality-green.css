@@ -94,7 +94,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #ffffff;
 }
 body {
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -166,7 +166,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #4F3D2C;
+  color: #fff;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -1060,7 +1060,7 @@ footer.footer .copyright p.small {
 .btn-full-width {
   border: 0;
   border-radius: 0;
-  background-color: #222222;
+  background-color: #4F3D2C;
   color: white;
   padding: 50px 0;
   font-size: 26px;
@@ -1069,7 +1069,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #4F3D2C;
+  background-color: #7B68EE;
   color: white;
 }
 .btn-full-width:focus {
