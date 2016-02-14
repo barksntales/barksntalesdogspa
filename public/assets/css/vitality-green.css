@@ -94,7 +94,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #ffffff;
 }
 body {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-size: 16px;
   font-weight: 300;
 }
@@ -114,7 +114,7 @@ p {
   line-height: 1.5;
 }
 p.lead {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 900;
   text-transform: uppercase;
   font-size: 24px;
@@ -125,7 +125,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -280,7 +280,7 @@ header .intro-content {
   position: relative;
 }
 header .brand-name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-size: 55px;
   line-height: 55px;
   text-transform: uppercase;
@@ -440,7 +440,7 @@ aside.cta-quote span.quote {
   display: inline-block;
 }
 .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -641,7 +641,7 @@ aside.cta-quote span.quote {
   font-size: 40px;
   line-height: 40px;
   margin-bottom: 5px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -1084,17 +1084,17 @@ body.modern h3,
 body.modern h4,
 body.modern h5,
 body.modern h6 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern p.lead {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern header .brand-name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -1103,12 +1103,12 @@ body.modern .about-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
 body.modern .portfolio-carousel .item .project-details .project-name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 700;
   text-transform: uppercase;
 }
 body.modern .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -1126,17 +1126,17 @@ body.vintage h3,
 body.vintage h4,
 body.vintage h5,
 body.vintage h6 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 400;
   text-transform: uppercase;
 }
 body.vintage p.lead {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 400;
   text-transform: uppercase;
 }
 body.vintage header .brand-name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -1145,12 +1145,12 @@ body.vintage .about-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
 body.vintage .portfolio-carousel .item .project-details .project-name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 400;
   text-transform: uppercase;
 }
 body.vintage .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Sans MS", "Comic Sans";
   font-weight: 400;
   text-transform: uppercase;
 }
