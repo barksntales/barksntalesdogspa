@@ -12,6 +12,7 @@ if(empty($_POST['name'])  		||
    }
 	
 $name = $_POST['name'];
+$name = $_POST['dogname'];
 $email_address = $_POST['email'];
 $phone = $_POST['phone'];
 $message = $_POST['message'];
