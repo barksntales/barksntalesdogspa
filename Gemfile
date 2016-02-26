@@ -1,4 +1,7 @@
-source "https://rubygems.org"
-ruby "2.2.1"
+source 'https://rubygems.org'
+ruby '2.2.1'
 
-gem "sinatra"
+gem 'sinatra'
+gem 'thin'
+gem 'actionmailer'
+gem 'letter_opener'
