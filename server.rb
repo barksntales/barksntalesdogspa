@@ -9,6 +9,5 @@ require './mailer_config'
  end
 
  post '/' do
-
   Mailer.contact(params).deliver_now
  end
