@@ -1,8 +1,8 @@
 class Mailer < ActionMailer::Base
   def contact(params)
     mail(
-        :to      => "barkstales@hotmail.com",
-        :from    => "barkstales@hotmail.com",
+        :to      => "barksandtales@gmail.com",
+        :from    => "barksandtales@gmail.com",
         :subject => "Barks & Tales Customer Information") do |format|
       format.html {
         render locals: {
